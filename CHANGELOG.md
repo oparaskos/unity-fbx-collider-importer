@@ -1,3 +1,10 @@
+# [0.2.0](https://github.com/oparaskos/unity-fbx-collider-importer/compare/v0.1.0...v0.2.0) (2022-08-30)
+
+
+### Features
+
+* **import:** Handle import of capsules and boxes alongside LODs ([b640a49](https://github.com/oparaskos/unity-fbx-collider-importer/commit/b640a49ac455dc294042b83500dc2285a27ac233))
+
 # [0.1.0](https://github.com/oparaskos/unity-fbx-collider-importer/compare/v0.0.1...v0.1.0) (2022-08-30)
 
 
