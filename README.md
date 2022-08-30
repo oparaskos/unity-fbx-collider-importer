@@ -1,4 +1,4 @@
-[![openupm](https://img.shields.io/npm/v/uk.me.paraskos.oliver.unity-fbx-collider-importer?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/uk.me.paraskos.oliver.unity-fbx-collider-importer/)
+[![openupm](https://img.shields.io/npm/v/uk.me.paraskos.oliver.fbx-collider-importer?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/uk.me.paraskos.oliver.fbx-collider-importer/)
 
 # Collider Importer
 
