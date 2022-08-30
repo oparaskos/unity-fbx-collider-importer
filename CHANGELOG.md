@@ -1,3 +1,10 @@
+## [0.2.6](https://github.com/oparaskos/unity-fbx-collider-importer/compare/v0.2.5...v0.2.6) (2022-08-30)
+
+
+### Bug Fixes
+
+* **docs:** readme ([8130d53](https://github.com/oparaskos/unity-fbx-collider-importer/commit/8130d53722e8a7cd05c9e6958c87160c1f764361))
+
 ## [0.2.5](https://github.com/oparaskos/unity-fbx-collider-importer/compare/v0.2.4...v0.2.5) (2022-08-30)
 
 
