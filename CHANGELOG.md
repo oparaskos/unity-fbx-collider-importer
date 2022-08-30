@@ -1,3 +1,10 @@
+## [0.2.5](https://github.com/oparaskos/unity-fbx-collider-importer/compare/v0.2.4...v0.2.5) (2022-08-30)
+
+
+### Bug Fixes
+
+* **package:** add missing Editor.meta file ([2774485](https://github.com/oparaskos/unity-fbx-collider-importer/commit/277448566695c6f05660c8fd393c090346fa2ca1))
+
 ## [0.2.4](https://github.com/oparaskos/unity-fbx-collider-importer/compare/v0.2.3...v0.2.4) (2022-08-30)
 
 
