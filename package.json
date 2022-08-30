@@ -1,6 +1,6 @@
 {
     "name": "uk.me.paraskos.oliver.unity-fbx-collider-importer",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "displayName": "Package Example",
     "description": "This is an example package",
     "unity": "2019.1",

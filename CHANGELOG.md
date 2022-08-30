@@ -1,3 +1,10 @@
+## [0.2.1](https://github.com/oparaskos/unity-fbx-collider-importer/compare/v0.2.0...v0.2.1) (2022-08-30)
+
+
+### Bug Fixes
+
+* **import:** Fix Debug.Warn typo should be Debug.LogWarning ([20ad278](https://github.com/oparaskos/unity-fbx-collider-importer/commit/20ad2783196d7f50b04690d0fd524d6c25618e1e))
+
 # [0.2.0](https://github.com/oparaskos/unity-fbx-collider-importer/compare/v0.1.0...v0.2.0) (2022-08-30)
 
 
