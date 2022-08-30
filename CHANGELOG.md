@@ -1,3 +1,10 @@
+## [0.2.4](https://github.com/oparaskos/unity-fbx-collider-importer/compare/v0.2.3...v0.2.4) (2022-08-30)
+
+
+### Bug Fixes
+
+* **package:** Remove unity- from package name ([1df7c56](https://github.com/oparaskos/unity-fbx-collider-importer/commit/1df7c56be61b0b5f6cc3cd3195c541b27fee68d3))
+
 ## [0.2.3](https://github.com/oparaskos/unity-fbx-collider-importer/compare/v0.2.2...v0.2.3) (2022-08-30)
 
 
