@@ -1,7 +1,7 @@
 {
-    "name": "uk.me.paraskos.oliver.unity-fbx-collider-importer",
+    "name": "uk.me.paraskos.oliver.fbx-collider-importer",
     "version": "0.2.3",
-    "displayName": "Unity Model Collider Importer",
+    "displayName": "Model Collider Importer",
     "description": "Import Unreal-Style colliders from Blender/FBX files into Unity Game Engine ",
     "unity": "2019.1",
     "unityRelease": "0b5",
