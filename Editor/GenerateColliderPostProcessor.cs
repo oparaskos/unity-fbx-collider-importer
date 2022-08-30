@@ -164,7 +164,7 @@ namespace UBXColliderImporter.Editor
         {
             if(1 - Mathf.Abs(Quaternion.Dot(g.transform.rotation, t.rotation)) > 0.1f) {
                 // TODO: Straight copy generated collider from child to parent doesn't respect rotation changes.
-                Debug.Warn("Collision mesh transform doesn't match the parent transform rotation, Colliders may not have translated correctly.");
+                Debug.LogWarning("Collision mesh transform doesn't match the parent transform rotation, Colliders may not have translated correctly.");
             }
 
             T collider = t.gameObject.AddComponent<T>();
