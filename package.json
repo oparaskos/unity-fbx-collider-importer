@@ -1,0 +1,32 @@
+{
+    "name": "uk.me.paraskos.oliver.unity-fbx-collider-importer",
+    "version": "0.0.1",
+    "displayName": "Package Example",
+    "description": "This is an example package",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "documentationUrl": "https://github.com/oparaskos/unity-fbx-collider-importer",
+    "changelogUrl": "https://github.com/oparaskos/unity-fbx-collider-importer/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/oparaskos/unity-fbx-collider-importer/blob/main/LICENSE",
+    "dependencies": {},
+    "keywords": [
+        "blender",
+        "fbx",
+        "import",
+        "model-import",
+        "unreal",
+        "ubx",
+        "ucs",
+        "ucp"
+    ],
+    "authors": [
+        {
+            "name": "Oliver Zeno Paraskos",
+            "url": "https://oliver.paraskos.me.uk"
+        },
+        {
+            "name": "Bronson Zgeb",
+            "url": "https://bronsonzgeb.com/index.php/2021/11/27/better-collider-generation-with-asset-processors/"
+        }
+    ]
+}
